@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "789756775106",
+    "project_id": "stelo-food",
+    "storage_bucket": "stelo-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789756775106:android:76601c8558437b5d05095b",
+        "android_client_info": {
+          "package_name": "com.stelo.resturant_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789756775106-q1g7nf793sljkv9tke3hg5is9a46gllh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Xs4p0ky4_YNTOHfdXk-iWJw7b3F8RuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789756775106-q1g7nf793sljkv9tke3hg5is9a46gllh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -10,7 +10,7 @@ Color mainColor = Colors.grey[200]!;
 Color secondColor = Colors.green;
 Color thirdColor = invert(mainColor);
 String MainSelected = "ابيض";
-String SecondSelected = "اخضر";
+String SecondSelected = "احمر";
 
 List pages = [
   Paid(),
